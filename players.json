@@ -1,77 +1,77 @@
 {
   "players": [
     {
-      "uuid": "UUID-HERE",
+      "uuid": "b146c457-5630-4cb6-b5f5-8b95365efb09",
       "name": "RSK6",
       "chambers": [1, 2]
     },
     {
-      "uuid": "UUID-HERE",
+      "uuid": "93059907-b2c5-4b02-9d59-84f52cee4816",
       "name": "Webtorre",
       "chambers": [3, 4, 19, 20]
     },
     {
-      "uuid": "UUID-HERE",
+      "uuid": "2f712925-fc23-42f3-853d-4d78138654f4",
       "name": "sugmycok",
       "chambers": [5, 6]
     },
     {
-      "uuid": "UUID-HERE",
+      "uuid": "88ac0941-b9a1-4a98-ae88-3d3ead4488f6",
       "name": "Lyquel",
       "chambers": [7, 8]
     },
     {
-      "uuid": "UUID-HERE",
+      "uuid": "45eecdc4-f6b3-43c0-adf7-af0ccd59d003",
       "name": "CopiumUser",
       "chambers": [9, 10]
     },
     {
-      "uuid": "UUID-HERE",
-      "name": "Neat",
+      "uuid": "67c3c130-8c62-4588-9cb1-20a2dba021ad",
+      "name": "__Neat__",
       "chambers": [11, 12]
     },
     {
-      "uuid": "UUID-HERE",
+      "uuid": "26f0b611-80ad-41f6-b599-551d025ff4f7",
       "name": "Xygard",
       "chambers": [13, 14]
     },
     {
-      "uuid": "UUID-HERE",
+      "uuid": "8a2816ef-6984-43ad-84e6-d5098e8714bf",
       "name": "GroomedByShred5",
       "chambers": [15, 16]
     },
     {
-      "uuid": "UUID-HERE",
+      "uuid": "3652ecde-f8c3-46ae-892c-64feae4e24e4",
       "name": "SpinSesh",
       "chambers": [17, 18]
     },
     {
-      "uuid": "UUID-HERE",
+      "uuid": "4c7e1fdd-dc94-4e11-991f-f53e7941dcc6",
       "name": "2015town",
       "chambers": [21, 22]
     },
     {
-      "uuid": "UUID-HERE",
+      "uuid": "8fa80771-d876-4fa6-87a3-a21e4be259d2",
       "name": "Twynq",
       "chambers": [23, 24]
     },
     {
-      "uuid": "UUID-HERE",
+      "uuid": "4f680610-b4d9-4547-9b05-a66b2f48c388",
       "name": "outskirtsoflife",
       "chambers": [25, 26]
     },
     {
-      "uuid": "UUID-HERE",
+      "uuid": "9ffb51de-d2a0-4859-9e0e-a77170b475ea",
       "name": "PunkAustralia",
       "chambers": [27, 28]
     },
     {
-      "uuid": "UUID-HERE",
+      "uuid": "f8262ac3-76bd-4d85-b5c0-9d18600306a6",
       "name": "15gPortRoyal",
       "chambers": [33, 34]
     },
     {
-      "uuid": "UUID-HERE",
+      "uuid": "f38e547b-e631-441b-8666-1e0b5984d7e8",
       "name": "PortalFrames",
       "chambers": [35, 36]
     }
