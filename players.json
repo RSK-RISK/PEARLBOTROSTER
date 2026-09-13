@@ -1,3 +1,79 @@
 {
-  "players": []
+  "players": [
+    {
+      "uuid": "UUID-HERE",
+      "name": "RSK6",
+      "chambers": [1, 2]
+    },
+    {
+      "uuid": "UUID-HERE",
+      "name": "Webtorre",
+      "chambers": [3, 4, 19, 20]
+    },
+    {
+      "uuid": "UUID-HERE",
+      "name": "sugmycok",
+      "chambers": [5, 6]
+    },
+    {
+      "uuid": "UUID-HERE",
+      "name": "Lyquel",
+      "chambers": [7, 8]
+    },
+    {
+      "uuid": "UUID-HERE",
+      "name": "CopiumUser",
+      "chambers": [9, 10]
+    },
+    {
+      "uuid": "UUID-HERE",
+      "name": "Neat",
+      "chambers": [11, 12]
+    },
+    {
+      "uuid": "UUID-HERE",
+      "name": "Xygard",
+      "chambers": [13, 14]
+    },
+    {
+      "uuid": "UUID-HERE",
+      "name": "GroomedByShred5",
+      "chambers": [15, 16]
+    },
+    {
+      "uuid": "UUID-HERE",
+      "name": "SpinSesh",
+      "chambers": [17, 18]
+    },
+    {
+      "uuid": "UUID-HERE",
+      "name": "2015town",
+      "chambers": [21, 22]
+    },
+    {
+      "uuid": "UUID-HERE",
+      "name": "Twynq",
+      "chambers": [23, 24]
+    },
+    {
+      "uuid": "UUID-HERE",
+      "name": "outskirtsoflife",
+      "chambers": [25, 26]
+    },
+    {
+      "uuid": "UUID-HERE",
+      "name": "PunkAustralia",
+      "chambers": [27, 28]
+    },
+    {
+      "uuid": "UUID-HERE",
+      "name": "15gPortRoyal",
+      "chambers": [33, 34]
+    },
+    {
+      "uuid": "UUID-HERE",
+      "name": "PortalFrames",
+      "chambers": [35, 36]
+    }
+  ]
 }
